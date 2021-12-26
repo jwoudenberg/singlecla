@@ -4,7 +4,7 @@ Version 1.0.2
 
 ## Purpose
 
-This contributor license agreement, or CLA, sets out the terms and guarantees that I give for my contributions to open software projects.  That way other developers can accept my contributions without fear of licensing problems and I can sign a single CLA, rather than one for each project.
+This contributor license agreement, or CLA, sets out the terms and guarantees that I give for my contributions to open software projects. That way other developers can accept my contributions without fear of licensing problems and I can sign a single CLA, rather than one for each project.
 
 ## Scope
 
@@ -20,13 +20,13 @@ This CLA applies to every pull request that I open offering a contribution:
 
 3.  for a project that gathers rights to license contributions in a single project steward, such as a foundation, company, or lead developer
 
-This CLA also applies to a pull request if I specifically say it applies in a comment to that pull request.  For example, I might say:
+This CLA also applies to a pull request if I specifically say it applies in a comment to that pull request. For example, I might say:
 
 > My Single CLA applies to this pull request.
 
 ### Exceptions
 
-This CLA does _not_ apply to a pull request if I specifically say it does not apply in a comment to that pull request.  For example, I might say:
+This CLA does _not_ apply to a pull request if I specifically say it does not apply in a comment to that pull request. For example, I might say:
 
 > My Single CLA does not apply to this pull request.
 
@@ -56,11 +56,11 @@ When I make contributions of my own work:
 
 3.  These license grants cover copyrights and patent claims I can license at the time I open my pull request, as well as copyrights and patent claims I become able to license later.
 
-4.  I license the project steward to pass these rights on to, or sublicense, anyone or everyone, under any terms they choose, one or many times.  As examples, this covers releasing the project on new public license terms, as well as licensing the project to specific customers on commercial license terms.
+4.  I license the project steward to pass these rights on to, or sublicense, anyone or everyone, under any terms they choose, one or many times. As examples, this covers releasing the project on new public license terms, as well as licensing the project to specific customers on commercial license terms.
 
 5.  I cannot and will not revoke these license grants.
 
-6.  ***As far as the law allows, my work comes as is, without any warranty or condition, except my promises about [right to license](#right-to-license) under this CLA.***
+6.  **_As far as the law allows, my work comes as is, without any warranty or condition, except my promises about [right to license](#right-to-license) under this CLA._**
 
 ## Right to License
 
@@ -72,7 +72,7 @@ When I make a contribution, I promise that all the work in it will be covered by
 
 ### Awareness
 
-I am aware of legal rules, like ["work made for hire"](https://en.wikipedia.org/wiki/Work_for_hire) rules, that can give employers and clients ownership of intellectual property in my work.  I am also aware that legal agreements I make [can transfer ownership of intellectual property in my work to others](https://en.wikipedia.org/wiki/Assignment_(law)), such as companies I found or sell my work to.  I am aware that in either case, I may not have the legal right to license my work.
+I am aware of legal rules, like ["work made for hire"](https://en.wikipedia.org/wiki/Work_for_hire) rules, that can give employers and clients ownership of intellectual property in my work. I am also aware that legal agreements I make [can transfer ownership of intellectual property in my work to others](<https://en.wikipedia.org/wiki/Assignment_(law)>), such as companies I found or sell my work to. I am aware that in either case, I may not have the legal right to license my work.
 
 ### Permission
 
@@ -86,12 +86,12 @@ When I offer a contribution with permission from some other company or person wh
 
 ### Company and Client CLAs
 
-If a project steward asks me to help get a CLA from someone who may own legal rights in my contribution, I promise to help the project steward request that CLA.  I am aware that only people with legal authority can sign CLAs on behalf of companies and other legal entities.
+If a project steward asks me to help get a CLA from someone who may own legal rights in my contribution, I promise to help the project steward request that CLA. I am aware that only people with legal authority can sign CLAs on behalf of companies and other legal entities.
 
 ## Reliability
 
-I fully expect project stewards, users, and distributors to rely on this CLA.  I am aware that they might enforce this CLA as a legally binding agreement.
+I fully expect project stewards, users, and distributors to rely on this CLA. I am aware that they might enforce this CLA as a legally binding agreement.
 
 ## Signature
 
-Signed: /{{{name}}}/
+Signed: /Jasper Woudenberg/
